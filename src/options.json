@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "accessKey": {
+      "type": "string"
+    },
+    "secretKey": {
+      "type": "string"
+    },
+    "bucket": {
+      "type": "string"
+    },
+    "domain": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,6 +1,6 @@
 {
   "name": "qiniu-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Loaders file as qiniu cdn URL",
   "scripts": {
     "start": "npm run build -- -w",

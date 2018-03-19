@@ -34,7 +34,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\(.png|jpg|gif)$/,
+        test: /\.(png|jpg|gif)$/,
         use: [
           {
             loader: 'qiniu-loader',
